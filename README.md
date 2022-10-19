@@ -27,7 +27,7 @@ Be aware to uncomment the sections on the environment.yml file depending on whic
 Activate the environment using:
 
 ```
-conda activate pca-mdaanalysis
+conda activate pca-mdanalysis
 ```
 
 You may modify the main.py file depending on which calculation you are interested.
